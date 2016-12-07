@@ -37,6 +37,6 @@
 		文件夹命名：图片文件夹（img）、css文件夹（css）、js文件夹（js）、网页文件夹（page）
 
 
-4、项目技术范围：bootstarp（css版本号：bootstrap.min.css、bootstrap-theme.min.css，js版本号：bootstrap.min.js）、h5、css3、jquery（版本号：jquery.min.js）、javascript、swiper（版本号：swiper-3.3.1.min.js、swiper.animate1.0.2.min.js）、github、nodeJs
+4、项目技术范围：bootstarp（css版本号：bootstrap.min.css、bootstrap-theme.min.css，js版本号：bootstrap.min.js）、h5、css3、jquery（版本号：jquery.min.js）、javascript、swiper（版本号：swiper-3.3.1.min.js、swiper.animate1.0.2.min.js）、github（地址：https://github.com/Ningstyle/Hujiang）、nodeJs、angularJs(版本号：angular.min.js、angular-ui-router.min.js)
 
 5、
