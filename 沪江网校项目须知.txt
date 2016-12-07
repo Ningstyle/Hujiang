@@ -1,0 +1,42 @@
+
+                                              沪江网校项目须知
+
+1、项目时间节点安排：(1)13.8-12.13  完成沪江网页首页进入页、沪江首页、及沪江首页顶栏所有子页面的静态页面及
+	            
+                     效果实现。具体安排如下：
+
+					 席蓉蓉：沪江主页进入页面及进入页面导航子页面及动态效果，包括学习工具页面 
+					 
+						    （http://www.hujiang.com/app/）、沪江社团页面（http://st.hujiang.com/）
+
+					 石奕飞：沪江主页（http://class.hujiang.com/?ch_source=ipo_hj_0_sydhwxrk）、主页面顶栏子页面：学
+					 
+					        习中心页面（http://class.hujiang.com/home）、我的班级页面（http://class.hujiang.com/mycl
+							
+							ass）
+					 
+					 李宁宁：主页顶栏子页面包括：大厅页面（http://class.hujiang.com/public/）及学习工具			
+							
+							 下列子页面,包括沪江开心词场页面（http://cichang.hujiang.com/books）、沪江				
+							 
+							 力酷页面（http://ting.hujiang.com/）、沪江小词典页面（http://dict.hjenglish.com/）、虎
+							 
+							 将题库页面（http://tiku.hujiang.com/）
+
+					(2)、12.14-12.17  
+
+2、项目要求：完整按照沪江网校官网完成所有静态页面以及动态效果、前后台数据实时交互（包括所有在同一主域名下的             
+             所有子页面），做到相似度100%。
+
+3、项目命名规范：席蓉蓉：xrr_
+
+		石奕飞：syf_
+		
+		李宁宁：lnn_
+	 
+		文件夹命名：图片文件夹（img）、css文件夹（css）、js文件夹（js）、网页文件夹（page）
+
+
+4、项目技术范围：bootstarp（css版本号：bootstrap.min.css、bootstrap-theme.min.css，js版本号：bootstrap.min.js）、h5、css3、jquery（版本号：jquery.min.js）、javascript、swiper（版本号：swiper-3.3.1.min.js、swiper.animate1.0.2.min.js）、github、nodeJs
+
+5、
